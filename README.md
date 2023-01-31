@@ -65,10 +65,6 @@ If there are any bugs or issues with the program or installation, please use the
 
 - Illustrator for the creation of the logo.
 
-
-<br />
-<br />
-
 ## Contributors
 
 - [Trevor Reese](https://github.com/ttrevorreese)
