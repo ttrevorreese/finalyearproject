@@ -2,7 +2,9 @@
 
 ![Logo](https://github.com/ttrevorreese/finalyearproject/blob/e60168e9d00ebd8f99534fd9c09fce76eb9ae668/Assets/Murrieta%20Connected%20BW.png)
 
-This is the repository for my Final Year Project, titled Murrieta: Connected, for my BSc at the University of Roehampton London. This repository is a developing prototype, so not everything is currently available.
+This is the repository for my Final Year Project, titled Murrieta: Connected, for my BSc at the University of Roehampton London. 
+
+**This repository is a developing prototype, so not everything is currently available.**
 
 ## Overview
 
