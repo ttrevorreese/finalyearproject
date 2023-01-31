@@ -38,12 +38,33 @@ If there are any bugs or issues with the program or installation, please use the
 ## Artefacts Used
 
 <img align="left" alt="Python" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg style="padding-right:20px;"/>
+
+- Python for the programming language of the project.
+
 <img align="left" alt="GitHub" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg style="padding-right:20px;"/>
-<img align="left" alt="Markdown" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg style="padding-right:20px;"/>
+
+- Github for the version control and public repository hosting of the project.
+
+<img align="left" alt="Pandas" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg style="padding-right:20px;"/>
+
+- Pandas for a lot of the mathematics and computing within the Python programming.
+
 <img align="left" alt="Markdown" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/markdown/markdown-original.svg style="padding-right:20px;"/>
+
+- Markdown for the presentation and layout of the public GitHub repository.
+
 <img align="left" alt="Google Cloud" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/googlecloud/googlecloud-original.svg style="padding-right:20px;"/>
+
+- Google Cloud for the hosting of my documents in progress.
+
 <img align="left" alt="Photoshop" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-plain.svg style="padding-right:20px;"/>
+
+- Photoshop for the moodboarding for the logo creation and the mockups for the presentation.
+
 <img align="left" alt="Illustrator" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/illustrator/illustrator-plain.svg style="padding-right:20px;"/>
+
+- Illustrator for the creation of the logo.
+
 
 <br />
 <br />
