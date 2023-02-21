@@ -105,4 +105,44 @@ Tasks after meeting:
 
 *With Dr. Yuanlin Gu and Mr. Mohammad Ahmad*
 
-**Upcoming meeting: Will discuss Milestone 03, introduce project and progress to Mr. Ahmad, and display roadmap of future plans in order to complete the project.**
+In this meeting, I introduced my project to Mr. Mohammad Ahmad, my secondary marker, and we went over my progress thus far. We also discussed my progress on the report
+and feedback was given. Mr. Ahmad approved my project and my progress thus far, and Milestone 03 was completed and submitted.
+
+Tasks after meeting:
+
+- Continue working on report, as the deadline approaches faster than it seems.
+- Find solution to algorithm not working properly.
+- Continue developing the map visualization of the paths.
+
+## Meeting 09 - 07 February 2023
+
+*With Dr. Yuanlin Gu*
+
+In this meeting, I discussed in specifics the issue that I was having with my algorithm. In short, the A* algorithm I was using was not capable of displaying more
+than 10 nodes in any given path. Dr. Gu suggested I move away from this specific implementation because it is extremely difficult to micromanage others' code and
+try to fix things that you do not know the inner workings of completely.
+
+Tasks after meeting:
+
+- Take a short time trying to fix the current code.
+- Research alternatives, A* algorithm or alternative.
+- Continue developing the map visualization of the paths.
+
+## Meeting 10 - 14 February 2023
+
+*Skipped due to COVID-19.*
+
+## Meeting 11 - 21 February 2023
+
+*With Dr. Yuanlin Gu*
+
+In this meeting, I discussed my progress with the algorithm development. After multiple attempts to fix the issues in my old implementation of the A* algorithm, I
+decided to move away from it and research alternatives. Ultimately, I found that Dijkstra's algorithm worked perfectly, and I just needed to change the syntax of the
+adjacency list. I also updated Dr. Gu on my progress with the map visualizations and how I found an API to implement driving routes on the map, not just waypoints
+from coordinate to coordinate. Additionally, we discussed next steps for me since I overcame the biggest hurdle thus far.
+
+Tasks after meeting:
+
+- Test algorithm using multiple different source and destination nodes to determine best routes.
+- Apply results to map visualization.
+- Create basic website to host the interactive map visualization.
