@@ -33,7 +33,7 @@ The data used in this project is a hand-collected dataset of 174 individual poin
 The program is built upon the most current version of Python3 (as of February 2023) using .ipynb notebooks.
 
 ## Bug Reporting
-If there are any bugs or issues with the program or installation, please use the issues tab located within this GitHub repository. This will make it easy for user communication with us developers, as we will be able to locate the bug(s) and try to create a solution as fast as possible.
+If there are any bugs or issues with the program or installation, please use the issues tab located within this GitHub repository. This will make it easy for user communication with me, as I will be able to locate the bug(s) and try to create a solution as fast as possible.
 
 ## Artefacts Used
 
