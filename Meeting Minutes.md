@@ -221,6 +221,6 @@ Tasks after meeting:
 - Complete the map outputs with created routes with documentation.
 - Implement into prototype website.
 
-## Meeting 17 - 04 April 2023
+## Spring Break
 
-*Skipped due to Easter holiday.*
+No meetings occurred during Winter Break, but I continued to work on the project periodically.
