@@ -90,6 +90,7 @@ Google Colab for the hosting of the .ipynb Jupyter notebooks during the developm
 - Mohammad Ahmad, Secondary Project Advisor
 - Dr. Charles Clarke, Program Convenor
 - Dr. Kevin Chalmers, Deputy Head of School
+- Dr. Wei Li, Stand-In Project Advisor
 
 ## Credits
 
