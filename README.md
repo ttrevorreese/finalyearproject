@@ -16,7 +16,7 @@ Murrieta: Connected is a theoretical company that could be created using the inf
 
 ## Project Scope
 
-The scope of this project is to build something from scratch within the time constraint of two university-length terms. This means that the project must be reasonably attainable within this time frame.
+The scope of this project is to build a program from scratch within the time constraint of two university-length terms. This means that the project must be reasonably attainable within this time frame.
 
 The project is to be undertaken by myself and myself only, but Scrum methods and Kanban ideology is expected to be applied throughout.
 
@@ -28,11 +28,22 @@ The [United States Census](https://data.census.gov/profile?g=160XX00US0650076), 
 
 ## Key Features
 
-*In Progress*
+The routes are created from running Dijkstra's algorithm utilizing an adjacency list with all of the distances between each node stored within the list. These are accessed and searched through when each node is hit within a search and the best route is found.
+
+To determine the routes that are created, I picked out the best points within the city of Murrieta that will span across all of the main roads of the city and that will serve the public with realistic routes for reasonable and usable destinations.
+
+These routes are then generated using Geoapify's Routing API that searches through the adjacency list with Dijkstra's algorithm. These are then plotted onto a Folium map within Python, which can be viewed below.
+
+![Map](https://github.com/ttrevorreese/finalyearproject/blob/d39b220267c9fdfac95fc7da9707b61632b2f731/bodo/images/map.jpg)
 
 ## Build Structure
 
 The program is built upon the most current version of Python3 (as of February 2023) using .ipynb notebooks.
+
+There is a *prototype* website located within the `bodo` folder in this repository. To view this prototype,
+- Clone this repository into your Visual Studio Code.
+- Open the `bodo` folder.
+- Right-click the `index.html` file within the folder and click "Open With Live Server."
 
 ## Bug Reporting
 If there are any bugs or issues with the program or installation, please use the issues tab located within this GitHub repository. This will make it easy for user communication with me, as I will be able to locate the bug(s) and try to create a solution as fast as possible.
@@ -83,6 +94,14 @@ Google Maps for the data collection and testing stages of the project.
 
 Google Colab for the hosting of the .ipynb Jupyter notebooks during the development and implementation stages of the project.
 
+## Further Development
+
+I have goals to implement another algorithm into the program that will automatically search for the best routes. To do this, I will need to implement some scores for each of the nodes so the algorithm has an incentive to find the best routes.
+
+Another goal is to create a fully-functional, completely interactive website that will display all of the routes on a website robustly.
+
+A long-term goal is to introduce this project in its final form (once the previous two goals have been achieved) to the Murrieta City Council in order to try and get it implemented and brought to fruition to serve the public.
+
 ## Contributors
 
 - [Trevor Reese](https://github.com/ttrevorreese)
@@ -94,4 +113,16 @@ Google Colab for the hosting of the .ipynb Jupyter notebooks during the developm
 
 ## Credits
 
-*In Progress*
+Thank you to Muhamad Reza Adityawarman of Freebiesbug for the free HTML and CSS website template.
+
+## Acknowledgements
+
+First and foremost, I would like to thank my primary advisor, Dr. Yuanlin Gu, for his continued guidance and support. There were a lot of ups and downs for me during the duration of this project, but he always gave me the support and reassurance I needed to stay on track and to complete the project to the best of my abilities. He always provided great feedback that helped me fill in the pieces of the puzzle and overcome obstacles. I am genuinely grateful for his help and support. Additionally, I would like to thank my secondary supervisor, Mr. Mohammad Ahmad, for ensuring that I was not putting all of my time into one part of the project and giving me the motivation and reassurance I needed to get to the next stage of the project. I would also like to thank Dr. Wei Li for stepping in at the last minute for guidance in the final stages.
+
+I would also like to thank my classmates and friends, Matthew Lowrie, Mandev Seahra, Sayeed Bin Yahya, Zakariya Oulhadj, Tyler Supersad, Tomasz Bernacki, Andrew Prystiaiko, Samoil-Bogdan Adascalului, Sidharth Jain, and all others for their support, feedback, and collaboration throughout the duration of the course. It was a privilege working with each and every one of them and gaining crucial experience working with others.
+
+I also owe a lot to my friends for being my family away from home. I am incredibly fortunate to have you all in my life and to have met you during such a crucial point in my life: Gio, Irene, Jocelyn, Ella, Victoria, Elizabeth, Sophie, Fabian, Jacob, Pedro, Aisling, Chloe, Kaya, Izzy, Alaa, Dylan, Lewis, Matthew, and many more.
+
+For the ones who supported me back in Murrieta, thank you. It was a massive step for me and my life to come here, and I am thankful for each and every one of you who stuck by my side: Michael, Sam, Reese, Caleb, and many others. Thank you for your love and support.
+
+Most importantly, I would like to thank my family. I am who I am because of each and every one of you. Mom, Dad, thank you for your continuous support and allowing me to follow my dreams halfway across the world. Thank you for your guidance, your wisdom, and your love. I would not have gotten here without you. I love you. And to my amazing siblings, Austin, Devin, Sydney, and Natalie: I love you. I have learned so much from each and every one of you and you all inspire me to be a better person. I am forever grateful to have such a loving and supportive family by my side at all times.
