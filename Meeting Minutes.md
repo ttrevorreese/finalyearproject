@@ -146,3 +146,81 @@ Tasks after meeting:
 - Test algorithm using multiple different source and destination nodes to determine best routes.
 - Apply results to map visualization.
 - Create basic website to host the interactive map visualization.
+
+## Meeting 11 - 21 February 2023
+
+*With Dr. Yuanlin Gu*
+
+In this meeting, I briefly updated Dr. Gu on my progress with implementing the API into the code, and the issues I have had in early implementation tests. He provided
+me with some suggestions on how to approach the usage of APIs into the Python code.
+
+Tasks after meeting:
+
+- Continue development of the API implementation.
+
+## Meeting 12 - 28 February 2023
+
+*With Dr. Yuanlin Gu*
+
+In this meeting, I discussed with Dr. Gu the current progress in the API implementation with the map, and discussed the issues that I have been having with it. He
+suggested that I take some time away from it for a moment and work on the report, and then come back to it with a fresh perspective.
+
+Tasks after meeting:
+
+- Shift focus to report development.
+- Follow the guidelines provided by Dr. Charles Clark for the report.
+
+## Meeting 13 - 07 March 2023
+
+*With Dr. Yuanlin Gu*
+
+In this meeting, I briefly updated Dr. Gu on my report progress. Small, basic feedback was given on the process. Dr. Gu also said to not completely forget about the
+programming.
+
+Tasks after meeting:
+
+- Continue work on report development.
+- Continue development on programming and map implementation.
+
+## Meeting 14 - 14 March 2023
+
+*With Dr. Yuanlin Gu*
+
+In this meeting, I updated Dr. Gu with the update I made in the map implementation that now displays all of the bus stops on the map at once, with the bus stop name
+available via user interaction. I updated him with the idea to color coordinate the icons by classification, but I put this to the side as it is not integral to the
+development, but rather better for later updates when full functionality is implemented.
+
+Tasks after meeting:
+
+- Continue work on report development.
+- Finalize map implementation.
+
+## Meeting 15 - 21 March 2023
+
+*With Dr. Yuanlin Gu*
+
+In this meeting, I discussed my progress on the report, as the deadline for Milestone 04 is approaching at the end of the week. While there is still a lot of work
+to do, Dr. Gu suggested that I am on a good track and to maintain focus on the report, working on it consistently.
+
+Tasks after meeting:
+
+- Continue work on report development.
+- Finalize map implementation.
+
+## Meeting 16 - 28 March 2023
+
+*With Dr. Yuanlin Gu*
+
+In this meeting, I discussed my submission for Milestone 04: Report Pre-Submission, where I submitted the rough draft of my report for the dissertation. Dr. Gu and I
+discussed the report in general, formatting improvements, and some tone adjustments. Additionally, Dr. Gu gave some advice on how to tackle the issues I have been
+having with implementing the API into the map with multiple routes.
+
+Tasks after meeting:
+
+- Revise report based upon discussed suggestions.
+- Complete the map outputs with created routes with documentation.
+- Implement into prototype website.
+
+## Spring Break
+
+No meetings occurred during Winter Break, but I continued to work on the project periodically.
