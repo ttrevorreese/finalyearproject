@@ -34,7 +34,7 @@ To determine the routes that are created, I picked out the best points within th
 
 These routes are then generated using Geoapify's Routing API that searches through the adjacency list with Dijkstra's algorithm. These are then plotted onto a Folium map within Python, which can be viewed below.
 
-![Map](https://github.com/ttrevorreese/finalyearproject/blob/d39b220267c9fdfac95fc7da9707b61632b2f731/website/images/map.jpg)
+![Map](https://github.com/ttrevorreese/finalyearproject/blob/c6c3b7a84e476f15e5cd9460f9199402c3a9f453/website/images/map.jpg)
 
 ## Build Structure
 
