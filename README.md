@@ -34,16 +34,16 @@ To determine the routes that are created, I picked out the best points within th
 
 These routes are then generated using Geoapify's Routing API that searches through the adjacency list with Dijkstra's algorithm. These are then plotted onto a Folium map within Python, which can be viewed below.
 
-![Map](https://github.com/ttrevorreese/finalyearproject/blob/d39b220267c9fdfac95fc7da9707b61632b2f731/bodo/images/map.jpg)
+![Map](https://github.com/ttrevorreese/finalyearproject/blob/d39b220267c9fdfac95fc7da9707b61632b2f731/website/images/map.jpg)
 
 ## Build Structure
 
 The program is built upon the most current version of Python3 (as of February 2023) using .ipynb notebooks.
 
-There is a *prototype* website located within the `website prototype` folder in this repository. To view this prototype,
+There is a *prototype* website located within the `website` folder in this repository. To view this prototype,
 
 - Clone this repository into your Visual Studio Code.
-- Open the `website prototype` folder.
+- Open the `website` folder.
 - Right-click the `index.html` file within the folder and click "Open With Live Server."
 
 ## Bug Reporting
