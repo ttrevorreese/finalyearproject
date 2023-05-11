@@ -224,3 +224,37 @@ Tasks after meeting:
 ## Spring Break
 
 No meetings occurred during Winter Break, but I continued to work on the project periodically.
+
+## Meeting 17 - 25 April 2023
+
+In this meeting, I updated Dr. Gu with my progress over Spring Break. I had made immense progress in both my report and my program, and I was just having a couple of 
+issues that I needed guidance for.
+
+Tasks after meeting:
+
+- Continue revising report and add discussed sections.
+- Work on fixing API implementation bug.
+
+## Meeting 18 - 04 May 2023
+
+In this meeting, I introduced my project to my new primary supervisor, Dr. Wei Li, who is stepping in for Dr. Gu for the remainder of the project. I sent her my report in
+its current state so that she could review it and suggest improvements. We agreed that it would be best if I did not show her any code at this point to ensure that my
+report is understandable and digestible to those who might not have coding experience.
+
+Tasks after meeting:
+
+- Update report based on Dr. Li's suggestions.
+- Finalize map implementation and route generation.
+- Finalize prototype website.
+
+## Meeting 19 - 10 May 2023
+
+In this meeting, I discussed the updates on the report that Dr. Li suggested in the last meeting, as well as scheduling the Viva Voce.
+
+Tasks after meeting:
+
+- Finalize report.
+- Finalize map.
+- Finalize prototype website.
+- Record screencast of report.
+- Prepare PowerPoint presentation for Viva Voce.
