@@ -40,12 +40,14 @@ These routes are then generated using Geoapify's Routing API that searches throu
 
 The program is built upon the most current version of Python3 (as of February 2023) using .ipynb notebooks.
 
-There is a *prototype* website located within the `bodo` folder in this repository. To view this prototype,
+There is a *prototype* website located within the `website prototype` folder in this repository. To view this prototype,
+
 - Clone this repository into your Visual Studio Code.
-- Open the `bodo` folder.
+- Open the `website prototype` folder.
 - Right-click the `index.html` file within the folder and click "Open With Live Server."
 
 ## Bug Reporting
+
 If there are any bugs or issues with the program or installation, please use the issues tab located within this GitHub repository. This will make it easy for user communication with me, as I will be able to locate the bug(s) and try to create a solution as fast as possible.
 
 ## Artefacts Used
